@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Anshuman Rai
+- 👀 I’m interested in competitive coding.
+- 🌱 I’m currently learning PHP framework.
+- 📫 You can reach me at anshumanrai1806@gmail.com.
